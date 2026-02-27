@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114514307377",
+    "project_id": "printellect-interview",
+    "storage_bucket": "printellect-interview.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114514307377:android:4285cf77f92b0793e72810",
+        "android_client_info": {
+          "package_name": "com.example.printellect_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvXWIu25pw9lwcWQE76xDHQthM7iN1FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
